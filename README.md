@@ -17,46 +17,18 @@
 </p>
 
 
+## 𒇫 tech
 
-# 𒅒 homonovski
-
-**Разработчик Telegram-ботов / Python / Автоматизация**
-
--  Создаю: ботов для бизнеса, парсеры, автоматизацию, веб‑приложения
--  Сейчас изучаю: FastAPI, Docker, алгоритмы
--  Мой сайт: [homonovski.github.io](https://homonovski.github.io)
--  Telegram: [@homonovski](https://t.me/homonovski)
-
----
-
-## 𒇫 Технологии
-
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-6B0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5A0000?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4A0000?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3D0000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2D0000?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 𒄆 Мои проекты
-
- -  [Бот для записи к мастеру маникюра](https://github.com/homonovski/manicure_bot)  
- -  [Музыкальный бот (Genius API)](https://github.com/homonovski/music_bot)  
- -  [Анонимный чат-бот](https://github.com/homonovski/anonymous_chat_bot)  
- -  [Терминальное портфолио](https://github.com/homonovski/homonovski.github.io)  
-
----
-
-## 𒅒 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homonovski&show_icons=true&theme=dark)
-
----
-
-## 𒈔 Связаться со мной
-
-- Telegram: [@homonovski](https://t.me/homonovski)
-- GitHub: [homonovski](https://github.com/homonovski)
-- Сайт: [homonovski.github.io](https://homonovski.github.io)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-6B0000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-5A0000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4A0000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3D0000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-2D0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-7A0000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-8B0000?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
