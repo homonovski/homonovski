@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**homonovski/homonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Разработчик Telegram-ботов / Python / Автоматизация**
 
-Here are some ideas to get you started:
+- ☣ Создаю: ботов для бизнеса, парсеры, автоматизацию, веб‑приложения
+- 🧠 Сейчас изучаю: FastAPI, Docker, алгоритмы
+- 🌐 Мой сайт: [homonovski.github.io](https://homonovski.github.io)
+- 💬 Telegram: [@homonovski](https://t.me/homonovski)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Технологии
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🗂️ Мои проекты
+
+🔹 [Бот для записи к мастеру маникюра](https://github.com/homonovski/manicure_bot)  
+🔹 [Музыкальный бот (Genius API)](https://github.com/homonovski/music_bot)  
+🔹 [Анонимный чат-бот](https://github.com/homonovski/anonymous_chat_bot)  
+🔹 [Терминальное портфолио](https://github.com/homonovski/homonovski.github.io)  
+
+---
+
+## 📊 GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homonovski&show_icons=true&theme=radical)
+
+---
+
+## 💬 Связаться со мной
+
+- Telegram: [@homonovski](https://t.me/homonovski)
+- GitHub: [homonovski](https://github.com/homonovski)
+- Сайт: [homonovski.github.io](https://homonovski.github.io)
