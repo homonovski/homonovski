@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="736" height="414" alt="Eyes Sigilkore Motion Graphic - insta @adam_graphics_" src="https://github.com/user-attachments/assets/c274cbd0-0158-4e96-b59f-f72b7be149e4" />
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend:+React,+Next.js,+Vue+3,+TypeScript,+Tailwind;Backend:+Django,+FastAPI,+Python,+Node.js;Databases:+PostgreSQL,+MongoDB,+SQLite,+Redis;Telegram:+Bots,+Aiogram,+Webhooks;DevOps:+Docker,+Git,+Linux,+Nginx;UI/UX:+Figma,+CSS-animations,+Responsive+Design&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</p>
 
 **Разработчик Telegram-ботов / Python / Автоматизация**
 
