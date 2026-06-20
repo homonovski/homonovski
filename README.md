@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header2.gif" alt="Eyes Sigilkore Motion Graphic" width="736" height="414">
+  <img src="header3.gif" alt="Eyes Sigilkore Motion Graphic" width="736" height="414">
   <br>
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend:+React,+Next,+TypeScript,+Tailwind;Backend:+Django,+FastAPI,+Python,+Node.js;Databases:+PostgreSQL,+MongoDB,+SQLite;Telegram:+Bots,+Aiogram,+Mini+Apps;DevOps:+Docker,+Git,+Linux,+Nginx;UI/UX:+Figma,+CSS,+Responsive+Design&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=FFFFFF" alt="Typing SVG" />
 
